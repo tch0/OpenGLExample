@@ -11,8 +11,7 @@
 inline std::filesystem::path g_pathCwd;
 
 // viewing box size
-inline glm::ivec2 g_WindowSz {1920, 1080};
-inline glm::ivec2 g_GameSz {1920, 1080};
+inline glm::ivec2 g_WindowSize {1920, 1080};
 inline bool g_bFullScreen = false;
 
 // the global GLFW window
